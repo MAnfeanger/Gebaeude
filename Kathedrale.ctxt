@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Kathedrale
+comment1.params=pHoehe\ pBesucher
+comment1.target=Kathedrale(double,\ int)
+comment2.params=
+comment2.target=int\ anzahlBesucher()
+numComments=3
