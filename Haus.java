@@ -7,6 +7,7 @@ public class Haus extends Gebaeude
     {
         super(pHoeheProStockwerk, pBesucher);
         stockwerke = pStockwerke;
+        
     }
     
     public double getHoehe() {
